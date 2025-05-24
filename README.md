@@ -2,6 +2,8 @@
 
 Este proyecto es una pequeña red social desarrollada en PHP y MySQL. Permite a los usuarios registrarse, iniciar sesión, publicar mensajes con imágenes, comentar publicaciones (también con imágenes), dar "me gusta", y editar o eliminar sus propios contenidos.
 
+## Desplegado actualmente en https://postealo.42web.io/muro.php
+
 ## Características
 
 - Registro e inicio de sesión de usuarios
